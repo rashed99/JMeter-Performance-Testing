@@ -16,9 +16,9 @@ The business requirement was to handle 120,000 users over 12 hours. Based on thi
 ## How to run?
 - Download the booking.jmx file from this repository.
 - Open a terminal in the folder containing booking.jmx
-Run Load Test:
+- Run Load Test:
 jmeter -n -t booking.jmx -l load-results.jtl -e -o load-report
-Run Stress Test:
+- Run Stress Test:
 Increase the Number of Threads in JMeter, save the test plan, and run:
 jmeter -n -t booking.jmx -l stress-results.jtl -e -o stress-report
 - Open index.html inside the generated report folder to view the results.
