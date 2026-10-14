@@ -24,6 +24,8 @@ jmeter -n -t booking.jmx -l stress-results.jtl -e -o stress-report
 - Open index.html inside the generated report folder to view the results.
 
 ##  Load Test Report
+<img width="754" height="285" alt="image" src="https://github.com/user-attachments/assets/3db16c4d-35db-4e88-b411-9a38911dc48e" />
+
 
 
 
