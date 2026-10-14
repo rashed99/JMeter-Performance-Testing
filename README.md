@@ -26,9 +26,8 @@ jmeter -n -t booking.jmx -l stress-results.jtl -e -o stress-report
 ##  Load Test Report
 <img width="754" height="285" alt="image" src="https://github.com/user-attachments/assets/3db16c4d-35db-4e88-b411-9a38911dc48e" />
 
-
-
-
 ##  Stress Test Report
+<img width="752" height="280" alt="image" src="https://github.com/user-attachments/assets/cf9ef5bc-b7de-4673-b28c-3e9146edfbc0" />
+
 
 
