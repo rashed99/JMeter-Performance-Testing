@@ -1,4 +1,4 @@
-#Restful-Booker API Performance Testing
+# Restful-Booker API Performance Testing
 
 ## Project Summary: 
 I performed Load Testing and Stress Testing on the Restful Booker API using Apache JMeter. The testing covered three APIs: Login, Create Booking, and Search Booking.
